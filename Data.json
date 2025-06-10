@@ -1,0 +1,951 @@
+[
+  {
+    "timestamp": "2025-06-10 21:40:59",
+    "ticker": "BTCUSDT",
+    "timeframe": "5m",
+    "current_price": 109811.3,
+    "current_zone": "premium zone",
+    "bars": [
+      {
+        "datetime": "2025-06-11 00:15:00",
+        "open": 109485.4,
+        "high": 109595.3,
+        "low": 109432,
+        "close": 109579.3,
+        "volume": 30.527316
+      },
+      {
+        "datetime": "2025-06-11 00:20:00",
+        "open": 109579.3,
+        "high": 109779.7,
+        "low": 109579.3,
+        "close": 109777.6,
+        "volume": 54.007491
+      },
+      {
+        "datetime": "2025-06-11 00:25:00",
+        "open": 109777.6,
+        "high": 110163.6,
+        "low": 109777.5,
+        "close": 110017.7,
+        "volume": 90.593996
+      },
+      {
+        "datetime": "2025-06-11 00:30:00",
+        "open": 110017.7,
+        "high": 110260,
+        "low": 109973.3,
+        "close": 110203.2,
+        "volume": 61.737903
+      },
+      {
+        "datetime": "2025-06-11 00:35:00",
+        "open": 110203.2,
+        "high": 110389.9,
+        "low": 110203.2,
+        "close": 110320.3,
+        "volume": 68.259557
+      },
+      {
+        "datetime": "2025-06-11 00:40:00",
+        "open": 110320.3,
+        "high": 110320.3,
+        "low": 109937.5,
+        "close": 109971.2,
+        "volume": 56.954063
+      },
+      {
+        "datetime": "2025-06-11 00:45:00",
+        "open": 109971.2,
+        "high": 109971.8,
+        "low": 109679.7,
+        "close": 109732.6,
+        "volume": 68.094886
+      },
+      {
+        "datetime": "2025-06-11 00:50:00",
+        "open": 109732.6,
+        "high": 109817.2,
+        "low": 109352.5,
+        "close": 109486.7,
+        "volume": 59.250215
+      },
+      {
+        "datetime": "2025-06-11 00:55:00",
+        "open": 109486.7,
+        "high": 109556.4,
+        "low": 109312.5,
+        "close": 109518.7,
+        "volume": 54.0019
+      },
+      {
+        "datetime": "2025-06-11 01:00:00",
+        "open": 109518.7,
+        "high": 109540.2,
+        "low": 109362,
+        "close": 109397.5,
+        "volume": 40.727056
+      },
+      {
+        "datetime": "2025-06-11 01:05:00",
+        "open": 109397.5,
+        "high": 109454.6,
+        "low": 109298.1,
+        "close": 109396.5,
+        "volume": 25.879618
+      },
+      {
+        "datetime": "2025-06-11 01:10:00",
+        "open": 109396.5,
+        "high": 109467.8,
+        "low": 109293.1,
+        "close": 109340.1,
+        "volume": 29.659833
+      },
+      {
+        "datetime": "2025-06-11 01:15:00",
+        "open": 109340.1,
+        "high": 109394.1,
+        "low": 109240.3,
+        "close": 109356.8,
+        "volume": 36.972046
+      },
+      {
+        "datetime": "2025-06-11 01:20:00",
+        "open": 109356.8,
+        "high": 109585.2,
+        "low": 109356.8,
+        "close": 109572.6,
+        "volume": 15.340145
+      },
+      {
+        "datetime": "2025-06-11 01:25:00",
+        "open": 109572.6,
+        "high": 109582.8,
+        "low": 109523.3,
+        "close": 109530.1,
+        "volume": 10.420245
+      },
+      {
+        "datetime": "2025-06-11 01:30:00",
+        "open": 109530.1,
+        "high": 109570.5,
+        "low": 109455.4,
+        "close": 109570.4,
+        "volume": 11.458662
+      },
+      {
+        "datetime": "2025-06-11 01:35:00",
+        "open": 109570.4,
+        "high": 109720.8,
+        "low": 109543.9,
+        "close": 109705.5,
+        "volume": 17.956891
+      },
+      {
+        "datetime": "2025-06-11 01:40:00",
+        "open": 109705.5,
+        "high": 109720.8,
+        "low": 109620,
+        "close": 109688.2,
+        "volume": 15.744117
+      },
+      {
+        "datetime": "2025-06-11 01:45:00",
+        "open": 109688.2,
+        "high": 109727.4,
+        "low": 109636.3,
+        "close": 109717.5,
+        "volume": 24.210251
+      },
+      {
+        "datetime": "2025-06-11 01:50:00",
+        "open": 109717.5,
+        "high": 109876.3,
+        "low": 109717.5,
+        "close": 109873.5,
+        "volume": 23.733285
+      },
+      {
+        "datetime": "2025-06-11 01:55:00",
+        "open": 109873.5,
+        "high": 110000,
+        "low": 109873.5,
+        "close": 109955.2,
+        "volume": 30.730287
+      },
+      {
+        "datetime": "2025-06-11 02:00:00",
+        "open": 109955.2,
+        "high": 109993,
+        "low": 109753.3,
+        "close": 109824,
+        "volume": 20.499359
+      },
+      {
+        "datetime": "2025-06-11 02:05:00",
+        "open": 109824,
+        "high": 109850.2,
+        "low": 109772.5,
+        "close": 109838.7,
+        "volume": 15.950285
+      },
+      {
+        "datetime": "2025-06-11 02:10:00",
+        "open": 109838.7,
+        "high": 109940.3,
+        "low": 109768.5,
+        "close": 109768.5,
+        "volume": 20.096883
+      },
+      {
+        "datetime": "2025-06-11 02:15:00",
+        "open": 109768.5,
+        "high": 109768.5,
+        "low": 109413.9,
+        "close": 109691.2,
+        "volume": 45.45389
+      },
+      {
+        "datetime": "2025-06-11 02:20:00",
+        "open": 109691.2,
+        "high": 109691.2,
+        "low": 109496.4,
+        "close": 109597.6,
+        "volume": 10.152789
+      },
+      {
+        "datetime": "2025-06-11 02:25:00",
+        "open": 109597.6,
+        "high": 109821.1,
+        "low": 109542.1,
+        "close": 109785.3,
+        "volume": 24.25075
+      },
+      {
+        "datetime": "2025-06-11 02:30:00",
+        "open": 109785.3,
+        "high": 109825.7,
+        "low": 109755,
+        "close": 109792.4,
+        "volume": 5.085687
+      },
+      {
+        "datetime": "2025-06-11 02:35:00",
+        "open": 109792.4,
+        "high": 109934,
+        "low": 109755.2,
+        "close": 109855.5,
+        "volume": 22.89601
+      },
+      {
+        "datetime": "2025-06-11 02:40:00",
+        "open": 109855.5,
+        "high": 109881.2,
+        "low": 109811.2,
+        "close": 109811.3,
+        "volume": 4.987291
+      }
+    ],
+    "patterns": [
+      {
+        "type": "swing",
+        "tf": "5m",
+        "valid": true,
+        "timestamp": "2025-06-11 00:35:00",
+        "index": 174,
+        "price": 110389.9
+      },
+      {
+        "type": "swing",
+        "tf": "5m",
+        "valid": true,
+        "timestamp": "2025-06-11 01:15:00",
+        "index": 182,
+        "price": 109240.3
+      },
+      {
+        "type": "swing",
+        "tf": "5m",
+        "valid": true,
+        "timestamp": "2025-06-11 01:20:00",
+        "index": 183,
+        "price": 109585.2
+      },
+      {
+        "type": "swing",
+        "tf": "5m",
+        "valid": true,
+        "timestamp": "2025-06-11 01:55:00",
+        "index": 190,
+        "price": 110000
+      },
+      {
+        "type": "swing",
+        "tf": "5m",
+        "valid": true,
+        "timestamp": "2025-06-11 02:15:00",
+        "index": 194,
+        "price": 109413.9
+      },
+      {
+        "type": "fvg",
+        "tf": "5m",
+        "valid": true,
+        "timestamp": "2025-06-11 01:50:00",
+        "from": 109727.4,
+        "to": 109873.5,
+        "index": 189
+      },
+      {
+        "type": "fvg",
+        "tf": "5m",
+        "valid": true,
+        "timestamp": "2025-06-11 02:00:00",
+        "from": 109850.2,
+        "to": 109873.5,
+        "index": 191
+      },
+      {
+        "type": "fvg",
+        "tf": "5m",
+        "valid": true,
+        "timestamp": "2025-06-11 02:10:00",
+        "from": 109768.5,
+        "to": 109772.5,
+        "index": 193
+      },
+      {
+        "type": "fvg",
+        "tf": "5m",
+        "valid": true,
+        "timestamp": "2025-06-11 02:15:00",
+        "from": 109691.2,
+        "to": 109768.5,
+        "index": 194
+      },
+      {
+        "type": "fvg",
+        "tf": "5m",
+        "valid": true,
+        "timestamp": "2025-06-11 02:25:00",
+        "from": 109691.2,
+        "to": 109755,
+        "index": 196
+      },
+      {
+        "type": "order_block",
+        "tf": "5m",
+        "valid": true,
+        "timestamp": "2025-06-11 00:35:00",
+        "high": 110389.9,
+        "low": 110203.2
+      },
+      {
+        "type": "order_block",
+        "tf": "5m",
+        "valid": true,
+        "timestamp": "2025-06-11 01:10:00",
+        "high": 109467.8,
+        "low": 109293.1
+      },
+      {
+        "type": "order_block",
+        "tf": "5m",
+        "valid": true,
+        "timestamp": "2025-06-11 01:20:00",
+        "high": 109585.2,
+        "low": 109356.8
+      },
+      {
+        "type": "order_block",
+        "tf": "5m",
+        "valid": true,
+        "timestamp": "2025-06-11 01:55:00",
+        "high": 110000,
+        "low": 109873.5
+      },
+      {
+        "type": "order_block",
+        "tf": "5m",
+        "valid": true,
+        "timestamp": "2025-06-11 02:15:00",
+        "high": 109768.5,
+        "low": 109413.9
+      },
+      {
+        "type": "equal_lows",
+        "tf": "5m",
+        "price": 109200,
+        "timestamps": [
+          "2025-06-10 16:05:00",
+          "2025-06-10 20:15:00"
+        ],
+        "valid": true
+      },
+      {
+        "type": "BOS",
+        "tf": "5m",
+        "direction": "SHORT",
+        "price": 109413.9,
+        "timestamp": "2025-06-11 02:15:00",
+        "valid": true
+      },
+      {
+        "type": "swing",
+        "tf": "15m",
+        "valid": true,
+        "timestamp": "2025-06-10 22:15:00",
+        "index": 182,
+        "price": 109062.4
+      },
+      {
+        "type": "swing",
+        "tf": "15m",
+        "valid": true,
+        "timestamp": "2025-06-10 23:00:00",
+        "index": 185,
+        "price": 108513.5
+      },
+      {
+        "type": "swing",
+        "tf": "15m",
+        "valid": true,
+        "timestamp": "2025-06-11 00:30:00",
+        "index": 191,
+        "price": 110389.9
+      },
+      {
+        "type": "swing",
+        "tf": "15m",
+        "valid": true,
+        "timestamp": "2025-06-11 01:15:00",
+        "index": 194,
+        "price": 109240.3
+      },
+      {
+        "type": "swing",
+        "tf": "15m",
+        "valid": true,
+        "timestamp": "2025-06-11 01:45:00",
+        "index": 196,
+        "price": 110000
+      },
+      {
+        "type": "fvg",
+        "tf": "15m",
+        "valid": true,
+        "timestamp": "2025-06-10 23:45:00",
+        "from": 109109.6,
+        "to": 109281.7,
+        "index": 188
+      },
+      {
+        "type": "fvg",
+        "tf": "15m",
+        "valid": true,
+        "timestamp": "2025-06-11 00:15:00",
+        "from": 109548,
+        "to": 109937.5,
+        "index": 190
+      },
+      {
+        "type": "fvg",
+        "tf": "15m",
+        "valid": true,
+        "timestamp": "2025-06-11 00:45:00",
+        "from": 109540.2,
+        "to": 109937.5,
+        "index": 192
+      },
+      {
+        "type": "fvg",
+        "tf": "15m",
+        "valid": true,
+        "timestamp": "2025-06-11 01:30:00",
+        "from": 109585.2,
+        "to": 109636.3,
+        "index": 195
+      },
+      {
+        "type": "fvg",
+        "tf": "15m",
+        "valid": true,
+        "timestamp": "2025-06-11 01:45:00",
+        "from": 109720.8,
+        "to": 109753.3,
+        "index": 196
+      },
+      {
+        "type": "order_block",
+        "tf": "15m",
+        "valid": true,
+        "timestamp": "2025-06-10 22:00:00",
+        "high": 108989.1,
+        "low": 108700.1
+      },
+      {
+        "type": "order_block",
+        "tf": "15m",
+        "valid": true,
+        "timestamp": "2025-06-10 22:45:00",
+        "high": 108857.7,
+        "low": 108610.3
+      },
+      {
+        "type": "order_block",
+        "tf": "15m",
+        "valid": true,
+        "timestamp": "2025-06-11 00:15:00",
+        "high": 110163.6,
+        "low": 109432
+      },
+      {
+        "type": "order_block",
+        "tf": "15m",
+        "valid": true,
+        "timestamp": "2025-06-11 01:00:00",
+        "high": 109540.2,
+        "low": 109293.1
+      },
+      {
+        "type": "order_block",
+        "tf": "15m",
+        "valid": true,
+        "timestamp": "2025-06-11 01:45:00",
+        "high": 110000,
+        "low": 109636.3
+      },
+      {
+        "type": "equal_lows",
+        "tf": "15m",
+        "price": 109200,
+        "timestamps": [
+          "2025-06-10 16:00:00",
+          "2025-06-10 20:15:00"
+        ],
+        "valid": true
+      },
+      {
+        "type": "BOS",
+        "tf": "15m",
+        "direction": "LONG",
+        "price": 110000,
+        "timestamp": "2025-06-11 01:45:00",
+        "valid": true
+      },
+      {
+        "type": "swing",
+        "tf": "1h",
+        "valid": true,
+        "timestamp": "2025-06-10 13:00:00",
+        "index": 186,
+        "price": 109064.7
+      },
+      {
+        "type": "swing",
+        "tf": "1h",
+        "valid": true,
+        "timestamp": "2025-06-10 16:00:00",
+        "index": 189,
+        "price": 109899
+      },
+      {
+        "type": "swing",
+        "tf": "1h",
+        "valid": true,
+        "timestamp": "2025-06-10 20:00:00",
+        "index": 193,
+        "price": 108334.1
+      },
+      {
+        "type": "swing",
+        "tf": "1h",
+        "valid": true,
+        "timestamp": "2025-06-10 23:00:00",
+        "index": 196,
+        "price": 108513.5
+      },
+      {
+        "type": "swing",
+        "tf": "1h",
+        "valid": true,
+        "timestamp": "2025-06-11 00:00:00",
+        "index": 197,
+        "price": 110389.9
+      },
+      {
+        "type": "fvg",
+        "tf": "1h",
+        "valid": true,
+        "timestamp": "2025-06-09 22:00:00",
+        "from": 108157.4,
+        "to": 108287.8,
+        "index": 171
+      },
+      {
+        "type": "fvg",
+        "tf": "1h",
+        "valid": true,
+        "timestamp": "2025-06-10 02:00:00",
+        "from": 108735.7,
+        "to": 109719.1,
+        "index": 175
+      },
+      {
+        "type": "fvg",
+        "tf": "1h",
+        "valid": true,
+        "timestamp": "2025-06-10 06:00:00",
+        "from": 109787.8,
+        "to": 109914.6,
+        "index": 179
+      },
+      {
+        "type": "fvg",
+        "tf": "1h",
+        "valid": true,
+        "timestamp": "2025-06-10 18:00:00",
+        "from": 109341.8,
+        "to": 109414.5,
+        "index": 191
+      },
+      {
+        "type": "fvg",
+        "tf": "1h",
+        "valid": true,
+        "timestamp": "2025-06-10 23:00:00",
+        "from": 109062.4,
+        "to": 109281.7,
+        "index": 196
+      },
+      {
+        "type": "order_block",
+        "tf": "1h",
+        "valid": true,
+        "timestamp": "2025-06-10 13:00:00",
+        "high": 109404.6,
+        "low": 109064.7
+      },
+      {
+        "type": "order_block",
+        "tf": "1h",
+        "valid": true,
+        "timestamp": "2025-06-10 16:00:00",
+        "high": 109899,
+        "low": 109200
+      },
+      {
+        "type": "order_block",
+        "tf": "1h",
+        "valid": true,
+        "timestamp": "2025-06-10 19:00:00",
+        "high": 109341.8,
+        "low": 108473.2
+      },
+      {
+        "type": "order_block",
+        "tf": "1h",
+        "valid": true,
+        "timestamp": "2025-06-10 22:00:00",
+        "high": 109062.4,
+        "low": 108610.3
+      },
+      {
+        "type": "order_block",
+        "tf": "1h",
+        "valid": true,
+        "timestamp": "2025-06-11 00:00:00",
+        "high": 110389.9,
+        "low": 109281.7
+      },
+      {
+        "type": "BOS",
+        "tf": "1h",
+        "direction": "LONG",
+        "price": 110389.9,
+        "timestamp": "2025-06-11 00:00:00",
+        "valid": true
+      },
+      {
+        "type": "swing",
+        "tf": "4h",
+        "valid": true,
+        "timestamp": "2025-06-08 13:00:00",
+        "index": 184,
+        "price": 104972.4
+      },
+      {
+        "type": "swing",
+        "tf": "4h",
+        "valid": true,
+        "timestamp": "2025-06-09 01:00:00",
+        "index": 187,
+        "price": 106493.5
+      },
+      {
+        "type": "swing",
+        "tf": "4h",
+        "valid": true,
+        "timestamp": "2025-06-09 05:00:00",
+        "index": 188,
+        "price": 105316.2
+      },
+      {
+        "type": "swing",
+        "tf": "4h",
+        "valid": true,
+        "timestamp": "2025-06-10 01:00:00",
+        "index": 193,
+        "price": 110665.8
+      },
+      {
+        "type": "swing",
+        "tf": "4h",
+        "valid": true,
+        "timestamp": "2025-06-10 17:00:00",
+        "index": 197,
+        "price": 108334.1
+      },
+      {
+        "type": "fvg",
+        "tf": "4h",
+        "valid": true,
+        "timestamp": "2025-06-07 17:00:00",
+        "from": 105265,
+        "to": 105271,
+        "index": 179
+      },
+      {
+        "type": "fvg",
+        "tf": "4h",
+        "valid": true,
+        "timestamp": "2025-06-08 17:00:00",
+        "from": 105713.4,
+        "to": 105937.1,
+        "index": 185
+      },
+      {
+        "type": "fvg",
+        "tf": "4h",
+        "valid": true,
+        "timestamp": "2025-06-09 13:00:00",
+        "from": 105718.2,
+        "to": 106871.3,
+        "index": 190
+      },
+      {
+        "type": "fvg",
+        "tf": "4h",
+        "valid": true,
+        "timestamp": "2025-06-09 21:00:00",
+        "from": 108041.2,
+        "to": 108439,
+        "index": 192
+      },
+      {
+        "type": "fvg",
+        "tf": "4h",
+        "valid": true,
+        "timestamp": "2025-06-10 01:00:00",
+        "from": 108776.3,
+        "to": 109377.4,
+        "index": 193
+      },
+      {
+        "type": "order_block",
+        "tf": "4h",
+        "valid": true,
+        "timestamp": "2025-06-08 09:00:00",
+        "high": 105642.6,
+        "low": 105402.4
+      },
+      {
+        "type": "order_block",
+        "tf": "4h",
+        "valid": true,
+        "timestamp": "2025-06-08 21:00:00",
+        "high": 106359,
+        "low": 105937.1
+      },
+      {
+        "type": "order_block",
+        "tf": "4h",
+        "valid": true,
+        "timestamp": "2025-06-09 05:00:00",
+        "high": 105970,
+        "low": 105316.2
+      },
+      {
+        "type": "order_block",
+        "tf": "4h",
+        "valid": true,
+        "timestamp": "2025-06-10 01:00:00",
+        "high": 110665.8,
+        "low": 108439
+      },
+      {
+        "type": "order_block",
+        "tf": "4h",
+        "valid": true,
+        "timestamp": "2025-06-10 17:00:00",
+        "high": 109889.4,
+        "low": 108334.1
+      },
+      {
+        "type": "BOS",
+        "tf": "4h",
+        "direction": "SHORT",
+        "price": 108334.1,
+        "timestamp": "2025-06-10 17:00:00",
+        "valid": true
+      },
+      {
+        "type": "swing",
+        "tf": "1d",
+        "valid": true,
+        "timestamp": "2025-05-25 05:00:00",
+        "index": 183,
+        "price": 106588.1
+      },
+      {
+        "type": "swing",
+        "tf": "1d",
+        "valid": true,
+        "timestamp": "2025-05-27 05:00:00",
+        "index": 185,
+        "price": 110750
+      },
+      {
+        "type": "swing",
+        "tf": "1d",
+        "valid": true,
+        "timestamp": "2025-05-31 05:00:00",
+        "index": 189,
+        "price": 103083.5
+      },
+      {
+        "type": "swing",
+        "tf": "1d",
+        "valid": true,
+        "timestamp": "2025-06-03 05:00:00",
+        "index": 192,
+        "price": 106799
+      },
+      {
+        "type": "swing",
+        "tf": "1d",
+        "valid": true,
+        "timestamp": "2025-06-05 05:00:00",
+        "index": 194,
+        "price": 100403.7
+      },
+      {
+        "type": "fvg",
+        "tf": "1d",
+        "valid": true,
+        "timestamp": "2025-05-08 05:00:00",
+        "from": 97735.1,
+        "to": 102330.1,
+        "index": 166
+      },
+      {
+        "type": "fvg",
+        "tf": "1d",
+        "valid": true,
+        "timestamp": "2025-05-21 05:00:00",
+        "from": 107311,
+        "to": 109191.25,
+        "index": 179
+      },
+      {
+        "type": "fvg",
+        "tf": "1d",
+        "valid": true,
+        "timestamp": "2025-05-29 05:00:00",
+        "from": 106333.22,
+        "to": 106776.5,
+        "index": 187
+      },
+      {
+        "type": "fvg",
+        "tf": "1d",
+        "valid": true,
+        "timestamp": "2025-05-30 05:00:00",
+        "from": 104932,
+        "to": 105300.8,
+        "index": 188
+      },
+      {
+        "type": "fvg",
+        "tf": "1d",
+        "valid": true,
+        "timestamp": "2025-06-09 05:00:00",
+        "from": 106493.5,
+        "to": 108334.1,
+        "index": 198
+      },
+      {
+        "type": "order_block",
+        "tf": "1d",
+        "valid": true,
+        "timestamp": "2025-05-23 05:00:00",
+        "high": 111797.7,
+        "low": 106796.7
+      },
+      {
+        "type": "order_block",
+        "tf": "1d",
+        "valid": true,
+        "timestamp": "2025-05-26 05:00:00",
+        "high": 110463.7,
+        "low": 108677
+      },
+      {
+        "type": "order_block",
+        "tf": "1d",
+        "valid": true,
+        "timestamp": "2025-05-30 05:00:00",
+        "high": 106333.22,
+        "low": 103626.1
+      },
+      {
+        "type": "order_block",
+        "tf": "1d",
+        "valid": true,
+        "timestamp": "2025-06-02 05:00:00",
+        "high": 105949.8,
+        "low": 103655.1
+      },
+      {
+        "type": "order_block",
+        "tf": "1d",
+        "valid": true,
+        "timestamp": "2025-06-05 05:00:00",
+        "high": 105920.1,
+        "low": 100403.7
+      },
+      {
+        "type": "BOS",
+        "tf": "1d",
+        "direction": "SHORT",
+        "price": 100403.7,
+        "timestamp": "2025-06-05 05:00:00",
+        "valid": true
+      },
+      {
+        "type": "CHoCH",
+        "tf": "1d",
+        "direction": "SHORT",
+        "price": 100403.7,
+        "timestamp": "2025-06-05 05:00:00",
+        "valid": true
+      }
+    ],
+    "rules": {},
+    "meta": {
+      "balance": 5000,
+      "risk": 2
+    }
+  }
+]
